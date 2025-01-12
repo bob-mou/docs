@@ -762,7 +762,7 @@ PS：抽奖概率测试怎么进行
 
 ### 亲密度需求文档链接如下：
 
-> **[需求原文链接](./Document/亲密度系统.docx)**
+> **[需求原文链接](https://bob-mou.github.io/docs/Document/亲密度系统.docx)**
 
 ### 思维导图：
 
