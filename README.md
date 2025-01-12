@@ -233,8 +233,8 @@
 
 ## 语音讲解
 
-1. [测试流程（李哥版）](Document/测试流程（李哥版）.m4a)
-2. [模拟面试（不完整）](Document/模拟面试（不完整）.m4a)
+1. [测试流程（李哥版）](https://bob-mou.github.io/docs/Document/测试流程（李哥版）.m4a)
+2. [模拟面试（不完整）](https://bob-mou.github.io/docs/Document/模拟面试（不完整）.m4a)
 
 # 安全
 
@@ -824,9 +824,7 @@ PS：抽奖概率测试怎么进行
 
 ### 火影应援需求文档链接如下：
 
-> **[需求原文链接](./Document/火影应援活动需求.docx)**
->
-> **[需求原文链接](Document/火影应援活动需求.docx)**
+> **[需求原文链接](https://bob-mou.github.io/docs/Document/火影应援活动需求.docx)**
 
 ### 思维导图：
 
