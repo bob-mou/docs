@@ -1204,5 +1204,5 @@ adb install E:\fun.bantong.fish.apk
 7. **打印级别为Fatal/Assert的日志**：
    Fatal级别通常与程序崩溃相关，而Assert级别用于断言失败时。由于Fatal级别较为特殊且通常与程序崩溃紧密相关，因此在实际使用中可能更关注Error级别及以上的日志来间接包含Fatal级别的日志（因为Fatal级别在Error级别之上）。对于Assert级别，则可以通过指定特定标签和级别的组合来过滤。
 
-
+**[ADB常用调试命令文档](https://bob-mou.github.io/docs/Document/Android调试常用命令.docx)**  
 
