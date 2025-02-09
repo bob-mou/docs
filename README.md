@@ -1020,7 +1020,7 @@ X取值$x \in \mathbb{(3,20)}$
 
 
 
-## 一、要求
+## 要素
 
 ![13e33674feef50cb34ecbdabed13eab](README.assets/13e33674feef50cb34ecbdabed13eab.jpg)
 
@@ -1038,11 +1038,37 @@ X取值$x \in \mathbb{(3,20)}$
 
 ![689d88569d73e48514c17366e603625](README.assets/689d88569d73e48514c17366e603625.png)
 
-### 印象深刻的BUG
+提交BUG单
+
+![1e0d8bfc419b84c8cb5c2523d770806](README.assets/1e0d8bfc419b84c8cb5c2523d770806.png)
+
+
+
+### 印象深刻的BUG（口诉）
 
 ![76b56e302e7fc52f5263b4e3336d3d7](README.assets/76b56e302e7fc52f5263b4e3336d3d7.png)
 
-### BUG严重程度
+## BUG种类
+
+### 文字描述类BUG
+
+标签页、标签页中的时间显示、文字描述、礼包详情等等
+
+### 实际和需求不一致的BUG
+
+比如文字和文档不符合，奖励和文档不符合，奖励数量和需求不符合、图片、按钮显示位置和文档不符合等
+
+### UI类BUG
+
+文字显示格式、图片、图片重叠、显示和内容不一致
+
+### 功能操作类BUG
+
+功能阻碍、操作后和预期不符合、卡顿
+
+## BUG问题相关
+
+![1828b6917359c0880fca43a354dcebe](README.assets/1828b6917359c0880fca43a354dcebe.jpg)
 
 
 
@@ -1077,6 +1103,8 @@ X取值$x \in \mathbb{(3,20)}$
 提取全部功能的用例的5%，去执行。
 
 # BUG执行
+
+![31b82994af99eef1ec469971de8e1e9](README.assets/31b82994af99eef1ec469971de8e1e9.jpg)
 
 通过：P绿色
 
@@ -1205,4 +1233,8 @@ adb install E:\fun.bantong.fish.apk
    Fatal级别通常与程序崩溃相关，而Assert级别用于断言失败时。由于Fatal级别较为特殊且通常与程序崩溃紧密相关，因此在实际使用中可能更关注Error级别及以上的日志来间接包含Fatal级别的日志（因为Fatal级别在Error级别之上）。对于Assert级别，则可以通过指定特定标签和级别的组合来过滤。
 
 **[ADB常用调试命令文档](https://bob-mou.github.io/docs/Document/Android调试常用命令.docx)**  
+
+# 测试总结与报告
+
+## 测试总结
 
